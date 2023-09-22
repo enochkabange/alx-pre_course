@@ -1,11 +1,2 @@
-
-#!/bin/bash echo "ALX School"
-=======
-#!/bin/bash\nALX School\n
->>>>>>> main
-=======
-#!/bin/bash echo "ALX School is so cool!"
-=======
-#!/bin/bash echo "ALX School"
->>>>>>> update_script
->>>>>>> origin
+#!/bin/bash
+echo "ALX School is so cool!"

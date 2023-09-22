@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #!/bin/bash echo "ALX School"
+=======
+#!/bin/bash\nALX School\n
+>>>>>>> main
